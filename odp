@@ -1,0 +1,1 @@
+w tym momencie sledzone sa pliki readme moj_program.c i .gitignore, ze względu na to, że komenda git add . wrzuca wszystkie pliki z katalogu do poczekalni mając na uwadze filtry zapisane w .gitignore
